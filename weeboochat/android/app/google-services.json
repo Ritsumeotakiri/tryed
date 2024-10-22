@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434339099976",
+    "project_id": "weechat-f0e97",
+    "storage_bucket": "weechat-f0e97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434339099976:android:6bac6feaea8017a3386f7d",
+        "android_client_info": {
+          "package_name": "com.ritsu.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkDBpjpNgeSFd3J477TsrCrt4KaberV2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
